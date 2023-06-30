@@ -1,2 +1,2 @@
 # Agricultural-Analysis-and-Predictions
-This project demonstrates the potential of leveraging advanced technologies to enhance agricultural productivity and sustainability.
+Data analytics and machine learning are used in agricultural analysis and forecasting to examine numerous aspects of crop production, including weather patterns, soil condition, and consumer demand. The knowledge acquired can aid farmers in decision-making and practise optimisation. The possibility of utilising cutting-edge technologies to raise agricultural productivity and sustainability is demonstrated by this initiative.
